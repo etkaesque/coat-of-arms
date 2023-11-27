@@ -1,0 +1,6 @@
+.vscode
+.env
+herbai.csv
+node_modules
+client
+server
